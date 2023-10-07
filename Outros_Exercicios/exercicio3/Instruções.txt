@@ -1,3 +1,0 @@
-- Acender 1 led RGB e alterar as cores
-digitalwrite
-delay

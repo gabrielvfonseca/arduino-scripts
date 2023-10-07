@@ -1,2 +1,2 @@
 # arduino-projects
- Compilation of simple arduino scripts I have
+ Compilation of simple arduino scripts
